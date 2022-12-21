@@ -1,5 +1,5 @@
 package Ass4;
-
+// this comment is for gitrepository only comment
 public class OvernightEvent extends Assignment4 {
 	private int days;
 	private int rateperday;
